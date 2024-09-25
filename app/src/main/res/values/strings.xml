@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- General texts-->
+    <string name="app_name">NoteTakingApp</string>
+    <string name="navigateLogin">Get back to login page</string>
+
+    <!-- Login layout strings-->
+    <string name="loginScreenTitle">SIMPLE Notes</string>
+    <string name="loginTitle">Welcome back to Simple Notes! Please login.</string>
+    <string name="loginHintEmail">Enter your email address</string>
+    <string name="loginHintPassword">Enter your password</string>
+    <string name="loginLogin">Submit</string>
+    <string name="loginText">LOGIN</string>
+    <string name="forgotPassword">Forgot password</string>
+    <string name="signUpHint">No account ? Create new account</string>
+
+    <!-- Sign up layout strings-->
+    <string name="signUpTitle"> Create new account</string>
+    <string name="signUpGreet"> Nice to see you here!</string>
+    <string name="signUpHintEmail">Enter your email address</string>
+    <string name="signUpHintPassword">Enter your password</string>
+    <string name="signUpHintRePassword">Re-enter your password</string>
+    <string name="signUpSignUp">Sign Up</string>
+
+    <!-- Forgot password strings -->
+    <string name="forgotGreet"> Dont worry we got you!</string>
+    <string name="forgotTitle"> Forgot password</string>
+    <string name="forgotForgot"> Send verification email</string>
+    <string name="title_activity_createnewnote">activity_createnewnote</string>
+
+    <!-- Log out-->
+    <string name="logOut">Logout</string>
+
+    <string name="noteTitleHint">Enter note title</string>
+    <string name="noteContentHint">Content for your note goes here..</string>
+
+</resources>

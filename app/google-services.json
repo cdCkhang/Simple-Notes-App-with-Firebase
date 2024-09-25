@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521643313748",
+    "project_id": "notesappandroid-d4784",
+    "storage_bucket": "notesappandroid-d4784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521643313748:android:b68ac2050a03272726fbc1",
+        "android_client_info": {
+          "package_name": "com.huykhang.notetakingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqOZJH1g6cF2duT-1nYobdrOKcGlS0eaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

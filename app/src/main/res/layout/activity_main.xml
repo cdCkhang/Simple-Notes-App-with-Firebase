@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f9f9f9"
+    tools:context=".MainActivity">
+    <RelativeLayout
+        android:id="@+id/centerLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="369dp"
+        android:layout_height="313dp"
+        android:layout_above="@+id/centerLine"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="40dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp"
+            android:height="60dp"
+            android:background="@drawable/gradient_nofilled"
+            android:gravity="center"
+            android:text="@string/loginScreenTitle"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:textSize="24sp">
+        </TextView>
+
+
+        <ImageView
+            android:id="@+id/appIcon"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:src="@drawable/app_icon">
+        </ImageView>
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="5dp"
+            android:text="@string/loginTitle"
+            android:textStyle="italic"
+            android:textColor="@color/dotnet"
+            android:textSize="18sp">
+        </TextView>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_above="@id/centerLine"
+        android:text="@string/loginText"
+        android:textColor="@color/dotnet"
+        android:textSize="24sp"
+        android:textStyle="bold">
+
+    </TextView>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/LoginField_Email"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/universalborder"
+        android:layout_marginTop="15dp"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:layout_marginBottom="10dp"
+        android:layout_below="@id/centerLine"
+        >
+
+        <EditText
+            android:id="@+id/LoginInput_Email"
+            android:layout_width="360dp"
+            android:layout_height="50dp"
+            android:background="@color/white"
+            android:layout_marginTop="5dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:hint="@string/loginHintEmail"
+            android:inputType="textEmailAddress"
+            tools:ignore="SpeakableTextPresentCheck">
+        </EditText>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/LoginField_Password"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/universalborder"
+        android:layout_marginRight="20dp"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:layout_marginBottom="40dp"
+        android:layout_below="@id/LoginField_Email"
+        >
+
+        <EditText
+            android:background="@color/white"
+            android:layout_marginBottom="5dp"
+            android:layout_width="360dp"
+            android:layout_height="50dp"
+            android:textSize="16sp"
+            android:textColor="@color/black"
+            android:id="@+id/LoginInput_Password"
+            android:hint="@string/loginHintPassword"
+            android:inputType="textPassword"
+            tools:ignore="SpeakableTextPresentCheck">
+        </EditText>
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginRight="80dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/gradient_nofilled"
+        android:layout_below="@id/LoginField_Password"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginStart="8dp"
+            android:gravity="center"
+            android:text="@string/loginLogin"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold">
+
+        </TextView>
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/login"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:id="@+id/goToSignUp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:text="@string/signUpHint"
+            android:textColor="@color/dotnet"
+            android:textSize="16sp">
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/goToForgotPassword"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:layout_marginStart="8dp"
+            android:text="@string/forgotPassword"
+            android:textColor="@color/dotnet"
+            android:textSize="16sp">
+
+        </TextView>
+    </LinearLayout>
+
+</RelativeLayout>
