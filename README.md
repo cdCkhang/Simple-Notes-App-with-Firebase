@@ -32,15 +32,20 @@
 <h2>Screenshots:</h2>
 <ol>
     <li> Sign up</li>
-    ![sign-up](https://raw.github.com/user-attachments/assets/31a61d25-cf53-43c2-aee1-7e438e716a8c)
+    
+    ![sign-up](/assets/sign-up.jpg)
     <li> Login</li>
-    ![login](https://raw.github.com/user-attachments/assets/950aa65e-8b4f-4a0e-bbf0-8507b7b3c567)
+    
+    ![login](/assets/login.jpg)
     <li> Forgot password</li>
-    ![password-recovery](https://raw.github.com/user-attachments/assets/05ce15b1-539f-4e10-991c-6972d9a7ac24)
+    
+    ![password-recovery](/assets/password-recovery.jpg)
     <li> Notes showcase</li>
-    ![notes-showcase](https://raw.github.com/user-attachments/assets/cec8ab47-4a6c-438a-ba50-10f57e3238c7)
+    
+    ![notes-showcase](/assets/notes-showcase.jpg)
     <li> Edit note</li>
-    ![edit-note](https://raw.github.com/user-attachments/assets/45b73c28-a02e-4e11-8ac0-fcb04cbcc873)
+    
+    ![edit-note](/assets/edit-note.jpg)
 
 </ol>
 
