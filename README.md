@@ -32,19 +32,14 @@
 <h2>Screenshots:</h2>
 <ol>
     <li> Sign up</li>
-    
     ![sign-up](/assets/sign-up.jpg)
     <li> Login</li>
-    
     ![login](/assets/login.jpg)
     <li> Forgot password</li>
-    
     ![password-recovery](/assets/password-recovery.jpg)
     <li> Notes showcase</li>
-    
     ![notes-showcase](/assets/notes-showcase.jpg)
     <li> Edit note</li>
-    
     ![edit-note](/assets/edit-note.jpg)
 
 </ol>
