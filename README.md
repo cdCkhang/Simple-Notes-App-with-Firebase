@@ -30,16 +30,24 @@
 
 
 <h2>Screenshots:</h2>
-<ol>
-    <li> Sign up</li>
+- Sign up
+
     ![sign-up](/assets/sign-up.jpg)
-    <li> Login</li>
+    
+- Login
+  
     ![login](/assets/login.jpg)
-    <li> Forgot password</li>
+  
+-Password Recovery
+
     ![password-recovery](/assets/password-recovery.jpg)
-    <li> Notes showcase</li>
+
+- Notes Showcase
+  
     ![notes-showcase](/assets/notes-showcase.jpg)
-    <li> Edit note</li>
+  
+- Edit note
+  
     ![edit-note](/assets/edit-note.jpg)
 
 </ol>
