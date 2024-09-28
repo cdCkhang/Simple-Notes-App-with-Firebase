@@ -32,15 +32,16 @@
 <h2>Screenshots:</h2>
 <ol>
     <li> Sign up</li>
-    ![Sign up](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/login.jpg)    
+    ![sign-up](https://github.com/user-attachments/assets/31a61d25-cf53-43c2-aee1-7e438e716a8c)
     <li> Login</li>
-    ![Login](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/sign-up.jpg)    
+    ![login](https://github.com/user-attachments/assets/950aa65e-8b4f-4a0e-bbf0-8507b7b3c567)
     <li> Forgot password</li>
-    ![Forgot password](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/password-recovery.jpg)
+    ![password-recovery](https://github.com/user-attachments/assets/05ce15b1-539f-4e10-991c-6972d9a7ac24)
     <li> Notes showcase</li>
-    ![Showcase](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/notes-showcase.jpg)
+    ![notes-showcase](https://github.com/user-attachments/assets/cec8ab47-4a6c-438a-ba50-10f57e3238c7)
     <li> Edit note</li>
-    ![Edit note](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/edit-note.jpg)
+    ![edit-note](https://github.com/user-attachments/assets/45b73c28-a02e-4e11-8ac0-fcb04cbcc873)
+
 </ol>
 
 <h2>Video demo</h2>
