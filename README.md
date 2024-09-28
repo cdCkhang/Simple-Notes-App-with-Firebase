@@ -32,23 +32,23 @@
 <h2>Screenshots:</h2>
 
 <h3>Sign up</h3>
-    <img src="/assets/sign-up.jpg" width="50%"></img>    
+    <img src="/assets/sign-up.jpg" width="40%"></img>    
 
 <h3>Login</h3>
-    <img src="/assets/login.jpg" width="50%"></img>        
+    <img src="/assets/login.jpg" width="40%"></img>        
   
 <h3>Password Recovery</h3>
-    <img src="/assets/password-recovery.jpg" width="50%"></img>    
+    <img src="/assets/password-recovery.jpg" width="40%"></img>    
 
 <h3>Notes showcase</h3>
-    <img src="/assets/notes-showcase.jpg" width="50%"></img>        
+    <img src="/assets/notes-showcase.jpg" width="40%"></img>        
   
 <h3>Edit note</h3>
-    <img src="/assets/edit-note.jpg" width="50%"></img>    
+    <img src="/assets/edit-note.jpg" width="40%"></img>    
 </ol>
 
 <h2>Video demo</h2>
 
-![Video demonstrate](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/demo_note_app.mp4)
+![Video demonstrate](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/demo.gif)
 
 
