@@ -30,30 +30,25 @@
 
 
 <h2>Screenshots:</h2>
-- Sign up
 
-    ![sign-up](/assets/sign-up.jpg)
-    
-- Login
-  
-    ![login](/assets/login.jpg)
-  
--Password Recovery
+<h3>Sign up</h3>
+    <img src="/assets/sign-up.jpg" width="50%"></img>    
 
-    ![password-recovery](/assets/password-recovery.jpg)
+<h3>Login</h3>
+    <img src="/assets/login.jpg" width="50%"></img>        
+  
+<h3>Password Recovery</h3>
+    <img src="/assets/password-recovery.jpg" width="50%"></img>    
 
-- Notes Showcase
+<h3>Notes showcase</h3>
+    <img src="/assets/notes-showcase.jpg" width="50%"></img>        
   
-    ![notes-showcase](/assets/notes-showcase.jpg)
-  
-- Edit note
-  
-    ![edit-note](/assets/edit-note.jpg)
-
+<h3>Edit note</h3>
+    <img src="/assets/edit-note.jpg" width="50%"></img>    
 </ol>
 
 <h2>Video demo</h2>
-<ol>    
-    ![Video demonstrate](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/demo_note_app.mp4)
-</ol>
+
+![Video demonstrate](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/demo_note_app.mp4)
+
 
