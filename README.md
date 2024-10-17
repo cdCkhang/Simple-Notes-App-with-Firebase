@@ -28,6 +28,7 @@
     <li>Download from the latest releases.</li>
 </ul>
 
+<h2>Video Demo</h2>
 <li>
     <a href="https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/blob/main/assets/demo.gif" target="_blank">
         <img src="https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/raw/main/assets/demo.gif" alt="Demo GIF" style="max-width: 40%; height: auto;">
