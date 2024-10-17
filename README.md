@@ -49,6 +49,6 @@
 
 <h2>Video demo</h2>
 
-![Video demonstrate](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/tree/main/assets/demo.gif)
+![](https://github.com/cdCkhang/Simple-Notes-App-with-Firebase/blob/main/assets/demo.gif)
 
 
